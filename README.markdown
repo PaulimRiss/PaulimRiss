@@ -11,3 +11,7 @@ Entre as linguagens que estou aprendendo e as que eu j√° tenho alguma base, est√
 - Java
 - Python
 - C++
+### Redes Sociais
+<a href="https://www.facebook.com/daniel.paulopires/">Facebook</a>
+<a href="https://twitter.com/Paulim_Pires">Twitter</a>
+<a href="https://www.linkedin.com/in/daniel-paulo-pires-rissato-055262183/">LinkedIn</a>
