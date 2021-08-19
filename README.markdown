@@ -1,10 +1,10 @@
 ## Olá!
 Eu sou o Daniel Paulo Pires Rissato (Ou Paulim), aluno de Ciências Moleculares na USP e entusiasta em programação.
 
-Meu GitHub atualmente tem o uso de organizar meus arquivos de estudos, então por enquanto só terão repositórios de pequenos projetos e ideias que eu criei e exercícios que eu fiz para fixar o conteúdo que aprendo ao longo do tempo. Eu deixarei todos eles públicos por enquanto, então caso queira ver meus estudos, acompanhá-los e/ou criticá-los, sinta-se a vontade.
+Tenho poucos projetos no momento,que pretendo atualizar aos pouco, uso eles principalmente para estudar programação, seja qual for o intuito do projeto.
 
 ### Linguagens
-Entre as linguagens que estou aprendendo e as que eu já tenho alguma base, estão:
+Em ordem decrescente, as linguagens que eu tenho mais experiência s
 - HTML
 - CSS
 - JavaScript
