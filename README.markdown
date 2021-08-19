@@ -1,7 +1,7 @@
 ## Olá!
 Eu sou o Daniel Paulo Pires Rissato (Ou Paulim), aluno de Ciências Moleculares na USP e entusiasta em programação.
 
-Tenho poucos projetos no momento,que pretendo atualizar aos pouco, uso eles principalmente para estudar programação, seja qual for o intuito do projeto.
+Tenho poucos projetos no momento, que pretendo atualizar aos pouco, uso eles principalmente para estudar programação, seja qual for o intuito do projeto.
 
 ### Linguagens
 Em ordem decrescente, as linguagens que eu tenho mais experiência são:
