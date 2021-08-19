@@ -4,7 +4,7 @@ Eu sou o Daniel Paulo Pires Rissato (Ou Paulim), aluno de Ciências Moleculares 
 Tenho poucos projetos no momento,que pretendo atualizar aos pouco, uso eles principalmente para estudar programação, seja qual for o intuito do projeto.
 
 ### Linguagens
-Em ordem decrescente, as linguagens que eu tenho mais experiência s
+Em ordem decrescente, as linguagens que eu tenho mais experiência são:
 - HTML
 - CSS
 - JavaScript
