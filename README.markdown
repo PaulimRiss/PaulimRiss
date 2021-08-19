@@ -5,8 +5,6 @@ Tenho poucos projetos no momento,que pretendo atualizar aos pouco, uso eles prin
 
 ### Linguagens
 Em ordem decrescente, as linguagens que eu tenho mais experiência são:
-- HTML
-- CSS
 - JavaScript
 - Java
 - Python
