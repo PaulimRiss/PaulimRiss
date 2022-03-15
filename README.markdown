@@ -9,7 +9,4 @@ Em ordem decrescente, as linguagens que eu tenho mais experiência são:
 - Java
 - Python
 - C++
-### Redes Sociais
-<a href="https://www.facebook.com/daniel.paulopires/">Facebook</a>
-<a href="https://twitter.com/Paulim_Pires">Twitter</a>
-<a href="https://www.linkedin.com/in/daniel-paulo-pires-rissato-055262183/">LinkedIn</a>
+### <a href="https://www.linkedin.com/in/daniel-paulo-pires-rissato-055262183/">LinkedIn</a>
