@@ -6,7 +6,7 @@ Tenho poucos projetos no momento, que pretendo atualizar aos pouco, uso eles pri
 ### Linguagens
 Em ordem decrescente, as linguagens que eu tenho mais experiência são:
 - JavaScript
-- Java
 - Python
+- Java
 - C++
 ### <a href="https://www.linkedin.com/in/daniel-paulo-pires-rissato-055262183/">LinkedIn</a>
