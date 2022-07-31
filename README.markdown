@@ -1,7 +1,7 @@
 ## Olá!
 Eu sou o Daniel Paulo Pires Rissato (Ou Paulim), aluno de Astronomia na USP e entusiasta em programação.
 
-Tenho poucos projetos no momento, que pretendo atualizar aos pouco, uso eles principalmente para estudar programação, seja qual for o intuito do projeto.
+Os projetos que eu tenho aqui no GitHub uso principalmente para estudar programação, seja qual for o intuito do projeto, back-end, front-end, game-dev, algoritmos, tanto faz, estará aqui.
 
 ### Linguagens
 Em ordem decrescente, as linguagens que eu tenho mais experiência são:
