@@ -5,7 +5,7 @@ Os projetos que eu tenho aqui no GitHub uso principalmente para estudar programa
 
 ### Linguagens
 Em ordem decrescente, as linguagens que eu tenho mais experiência são:
-- JavaScript
+- TypeScript/JavaScript
 - Python
 - Java
 - C++
